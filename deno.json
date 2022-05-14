@@ -1,0 +1,6 @@
+{
+  "tasks": {
+    "start": "mode=dev deno run mod.ts"
+  },
+  "importMap": "importMap.json"
+}
